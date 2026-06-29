@@ -1,0 +1,28 @@
+2026-06-29 13:53:11 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\asween.kartheek\eclipse-workspace\OpencartV121\src\test\resources\master.xml"
+2026-06-29 13:53:32 INFO  TC001_AccountRegistrationTest:15 - Starting TC001_AccountRegistrationTest
+2026-06-29 13:53:33 INFO  TC001_AccountRegistrationTest:18 - Clicked on MyAccount Link
+2026-06-29 13:53:34 INFO  TC001_AccountRegistrationTest:21 - Clicked on Register Link
+2026-06-29 13:53:34 INFO  TC001_AccountRegistrationTest:24 - Providing Customer Details
+2026-06-29 13:53:40 INFO  TC001_AccountRegistrationTest:38 - Validating Expected Message
+2026-06-29 13:53:40 INFO  TC001_AccountRegistrationTest:54 - Ending TC001_AccountRegistrationTest
+2026-06-29 13:59:18 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\asween.kartheek\eclipse-workspace\OpencartV121\master.xml"
+2026-06-29 13:59:29 INFO  TC001_AccountRegistrationTest:15 - Starting TC001_AccountRegistrationTest
+2026-06-29 13:59:31 INFO  TC001_AccountRegistrationTest:18 - Clicked on MyAccount Link
+2026-06-29 13:59:32 INFO  TC001_AccountRegistrationTest:21 - Clicked on Register Link
+2026-06-29 13:59:32 INFO  TC001_AccountRegistrationTest:24 - Providing Customer Details
+2026-06-29 13:59:35 INFO  TC001_AccountRegistrationTest:38 - Validating Expected Message
+2026-06-29 13:59:36 INFO  TC001_AccountRegistrationTest:54 - Ending TC001_AccountRegistrationTest
+2026-06-29 17:36:51 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\asween.kartheek\eclipse-workspace\OpencartV121\master.xml"
+2026-06-29 17:37:01 INFO  TC001_AccountRegistrationTest:15 - Starting TC001_AccountRegistrationTest
+2026-06-29 17:37:02 INFO  TC001_AccountRegistrationTest:18 - Clicked on MyAccount Link
+2026-06-29 17:37:02 INFO  TC001_AccountRegistrationTest:21 - Clicked on Register Link
+2026-06-29 17:37:02 INFO  TC001_AccountRegistrationTest:24 - Providing Customer Details
+2026-06-29 17:37:05 INFO  TC001_AccountRegistrationTest:38 - Validating Expected Message
+2026-06-29 17:37:05 INFO  TC001_AccountRegistrationTest:54 - Ending TC001_AccountRegistrationTest
+2026-06-29 17:57:44 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\asween.kartheek\eclipse-workspace\OpencartV121\master.xml"
+2026-06-29 17:57:51 INFO  TC001_AccountRegistrationTest:15 - Starting TC001_AccountRegistrationTest
+2026-06-29 17:57:52 INFO  TC001_AccountRegistrationTest:18 - Clicked on MyAccount Link
+2026-06-29 17:57:52 INFO  TC001_AccountRegistrationTest:21 - Clicked on Register Link
+2026-06-29 17:57:52 INFO  TC001_AccountRegistrationTest:24 - Providing Customer Details
+2026-06-29 17:57:55 INFO  TC001_AccountRegistrationTest:38 - Validating Expected Message
+2026-06-29 17:57:55 INFO  TC001_AccountRegistrationTest:54 - Ending TC001_AccountRegistrationTest
